@@ -1,7 +1,5 @@
 ## **Hi** 👋, I'm Bartek
 
----
-
 ### I'm a Front-End Developer 🎨 🖥 💻
 
 - Tech Geek 💙 🖥️ 🖱️ ⌨️ 📱
