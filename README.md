@@ -28,6 +28,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-C51A4A?style=flat-square&logo=nestjs)
+![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=flat-square&logo=insomnia)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -42,7 +45,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi)
-![Synology](https://img.shields.io/badge/-Synology-C51A4A?style=flat-square&logo=synology)
+![Synology](https://img.shields.io/badge/-Synology-black?style=flat-square&logo=synology)
+
+![Integromat](https://img.shields.io/badge/-Integromat-black?style=flat-square&logo=integromat)
+![Zapier](https://img.shields.io/badge/-Zapier-black?style=flat-square&logo=zapier)
 
 ---
 
