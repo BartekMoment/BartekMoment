@@ -46,6 +46,7 @@
 ![Apple](https://img.shields.io/badge/-Apple-black?style=flat-square&logo=apple)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Debian](https://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi)
 ![Synology](https://img.shields.io/badge/-Synology-black?style=flat-square&logo=synology)
 ![Integromat](https://img.shields.io/badge/-Integromat-black?style=flat-square&logo=integromat)
